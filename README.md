@@ -1,4 +1,13 @@
-## Hi there 👋
+## Arul's personal repository
+### Hi 👋
+
+I am a data scientist with 6+ years of experience in bioinformatics 🧬💻, currently working as a Postdoctoral Researcher @ [St Vincent's Institute](https://www.svi.edu.au/laboratories/human-genomics-and-evolution/).
+
+My work focuses on analyzing large (and often messy!) multimodal omic datasets, building robust analytical pipelines, and collaborating with cross-functional, international teams to drive impactful research. I specialize in host-microbe interactions and studies involving underrepresented populations.
+
+I am passionate about using data science to advance our understanding of human health and to promote diversity and equity in genomics research. I am also eager to continue growing my data science skillset and applying it beyond academia, such as in healthcare or data-driven industries that drive real-world impact.
+
+
 
 <!--
 **fachrulm/fachrulm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
