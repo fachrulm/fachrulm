@@ -1,4 +1,4 @@
-## Arul's personal repository
+## Fachrul's personal repository
 ### Hi 👋
 
 I am a data scientist with 6+ years of experience in bioinformatics 🧬💻, currently working as a Postdoctoral Researcher @ [St Vincent's Institute](https://www.svi.edu.au/laboratories/human-genomics-and-evolution/).
