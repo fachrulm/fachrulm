@@ -1,7 +1,7 @@
 ## Fachrul's personal repository
 ### Hi 👋
 
-I am a data scientist with 6+ years of experience in bioinformatics 🧬💻, currently working as a Postdoctoral Researcher @ [St Vincent's Institute](https://www.svi.edu.au/laboratories/human-genomics-and-evolution/).
+I am a data scientist with 6+ years of experience (2.5 years post-PhD) in bioinformatics 🧬💻, currently working as a Postdoctoral Researcher @ [St Vincent's Institute](https://www.svi.edu.au/laboratories/human-genomics-and-evolution/).
 
 My work focuses on analyzing large (and often messy!) multimodal omic datasets, building robust analytical pipelines, and collaborating with cross-functional, international teams to drive impactful research. My previous and current works revolve around host-microbe interactions and studies involving underrepresented populations.
 
